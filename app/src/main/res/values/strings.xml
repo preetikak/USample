@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">USample</string>
+    <string name="skills">Skills</string>
+    <string name="summary">Summary</string>
+    <string name="edu_bg">Educational Background</string>
+    <string name="error">Error</string>
+</resources>
